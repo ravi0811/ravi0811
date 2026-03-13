@@ -30,5 +30,5 @@ I am a passionate learner exploring the world of programming. Currently, I'm foc
 ---
 
 <p align="center">
-  <i>"Consitency is the key to mastering Python!" 🚀</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad." </i>
 </p>
