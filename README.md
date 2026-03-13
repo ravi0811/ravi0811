@@ -25,7 +25,7 @@ I am a passionate learner exploring the world of programming. Currently, I'm foc
 
 ## 🐍 Contribution Snake
 <p align="left">
-<img src="https://raw.githubusercontent.com/ravi0811/ravi0811/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ravi0811/ravi0811/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 ---
 
