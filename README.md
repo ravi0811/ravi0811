@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Ravi Ranjan Kumar! 👋
 
-<!--
-**ravi0811/ravi0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Python Journey in Progress
+I am a passionate learner exploring the world of programming. Currently, I'm focusing on building a strong foundation in **Python**.
 
-Here are some ideas to get you started:
+- 🔭 **Current Goal:** Learning Python basics (Variables, Loops, and Functions).
+- 🌱 **Learning:** Data Structures & Logic building.
+- 🎯 **Future Plan:** Exploring Web Development or Data Science.
+- 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/ravi-ranjan-kumar-93521b272/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi0811&show_icons=true&theme=radical&rank_icon=github" alt="Ravi's GitHub Stats" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ravi0811/ravi0811/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Consitency is the key to mastering Python!" 🚀</i>
+</p>
