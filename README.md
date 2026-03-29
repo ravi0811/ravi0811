@@ -18,7 +18,7 @@ I am a passionate learner exploring the world of programming. Currently, I'm foc
 
 ## 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi0811&show_icons=true&theme=radical" alt="Ravi's GitHub Stats" />
+  <img src="https://metrics.lecoq.io/ravi0811?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolkata" alt="Ravi's GitHub Stats" />
 </p>
 
 ---
