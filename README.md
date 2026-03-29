@@ -21,12 +21,6 @@ I am a passionate learner exploring the world of programming. Currently, I'm foc
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravi0811&show_icons=true&theme=radical" alt="Ravi's GitHub Stats" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravi0811&theme=radical&no-frame=true&margin-w=15" alt="Ravi's Trophies" />
-</p>
----
-
 ## 🐍 Contribution Snake
 <p align="left">
   <img src="https://raw.githubusercontent.com/ravi0811/ravi0811/output/github-snake.svg" alt="Snake Animation" />
