@@ -12,7 +12,7 @@ I am an MCA student actively mastering Full-Stack Web Development, Web Automatio
 - ⚙️ **Automation & Scraping:** Building headless bots and data pipelines using **Selenium WebDriver** and **BeautifulSoup4**.
 - 🧠 **Computer Science Core:** Practicing Data Structures & Algorithms (DSA) in Python & System Design.
 - 🎯 **Career Goal:** Engineering scalable systems in Artificial Intelligence and Quantum Computing.
-- 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/ravi-ranjan-kumar-93521b272/)
+- 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/raviranjankumar08/)
 
 ---
 
