@@ -1,6 +1,6 @@
 # Hi there, I'm Ravi Ranjan Kumar! 👋
 
-### 🚀 MCA Student | Aspiring AI & Quantum Computing Engineer
+### 🚀 MCA Student | Aspiring AI & Quantum Computing Engineer.
 
 I am an MCA student actively mastering Full-Stack Web Development, Web Automation, and Data Engineering workflows. Currently working through the **100 Days of Code** curriculum, building end-to-end backend servers, dynamic scrapers, and browser automation systems.
 
